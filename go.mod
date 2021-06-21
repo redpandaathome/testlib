@@ -1,3 +1,3 @@
-module github.com/redpanddaathome/testlib
+module github.com/redpandaathome/testlib
 
 go 1.16
